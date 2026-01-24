@@ -54,7 +54,7 @@ portalocker==2.10.1
 proto-plus==1.23.0
 protobuf==4.25.1
 psycopg2-binary==2.9.9
-pyasn1==0.5.1
+pyasn1==0.6.2
 pyasn1-modules==0.3.0
 pycparser==2.21
 pydyf==0.8.0
@@ -76,7 +76,7 @@ typing_extensions==4.9.0
 tzdata==2023.3
 uritemplate==4.1.1
 urllib3==2.1.0
-weasyprint==60.2
+weasyprint==68.0
 webencodings==0.5.1
 wrapt==1.16.0
 xmltodict==0.13.0
